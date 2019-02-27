@@ -1,0 +1,1 @@
+GLOBAL.AllRecipes["bundlewrap"]["sortkey"] = GLOBAL.AllRecipes["reviver"]["sortkey"] - 1
